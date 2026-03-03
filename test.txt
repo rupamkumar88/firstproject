@@ -4,4 +4,4 @@ sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients virt-manager -y
 
 # Add user to libvirt group
 sudo usermod -aG libvirt $USER
-newgrp libvirt
+newgrp libvirtasdasdad
