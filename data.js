@@ -8,7 +8,7 @@ OpenShift CI/CD
 
 RBAC
 
-ss
+ssdd
 
 Operators
 
