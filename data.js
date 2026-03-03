@@ -12,4 +12,7 @@ ssdd
 
 Operators
 
+
+ARITHMETIC 
+
 —all without complex cluster setup.
