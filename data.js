@@ -8,8 +8,11 @@ OpenShift CI/CD
 
 RBAC
 
-ssddss
+ssss
 
 Operators
+
+
+ARITHMETIC 
 
 —all without complex cluster setup.
